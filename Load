@@ -1,0 +1,3 @@
+local function useless()
+print("DO NOTHING")
+end
